@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Chevaliers du Zodiaque UHC",
+    "desc": "Application FullStack réalisé dans la cadre de la validation de mon titre professionnel Développeur Web et Web Mobile",
+    "tech": [
+      "React.js",
+      "SASS",
+      "yup",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "dotenv",
+      "cors",
+      "mongoose",
+      "nodemailer",
+      "jsonwebtoken",
+      "stripe",
+      "bcrypt"
+    ],
+    "github": "https://github.com/CorentinDWWM/CDZ-FullStack",
+    "deploy": "https://cdz-fullstack.onrender.com"
+  },
+  {
+    "name": "Memory",
+    "desc": "Jeux réalisé dans le cadre de ma formation Développeur Web et Web Mobile",
+    "tech": ["React.js", "SASS"],
+    "github": "https://github.com/CorentinDWWM/Memory",
+    "deploy": "https://memorygamecd-dwwm.netlify.app/"
+  },
+  {
+    "name": "Othello",
+    "desc": "Jeux réalisé dans le cadre de ma formation Développeur Web et Web Mobile",
+    "tech": ["React.js", "SASS"],
+    "github": "https://github.com/CorentinDWWM/Othello",
+    "deploy": "https://othellogamecd-dwwm.netlify.app/"
+  }
+]
