@@ -19,7 +19,7 @@ export default function Intro() {
           et je suis
         </p>
         <AnimatedTitles />
-        <p className="mt-6 text-gray-700 dark:text-gray-400">
+        <p className="mt-2 text-gray-700 dark:text-gray-400">
           Je conçois des applications modernes, performantes et accessibles.
         </p>
       </div>

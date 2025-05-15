@@ -3,9 +3,10 @@ import { useEffect, useState } from "react";
 
 const TITLES = [
   "Développeur Web & Web Mobile",
-  "Concepteur d’applications",
+  "Concepteur Développeur d’applications",
   "Développeur Front-End",
   "Développeur Back-End",
+  "Développeur Full-Stack",
 ];
 
 export default function AnimatedTitles() {
