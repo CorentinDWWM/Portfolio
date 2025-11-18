@@ -8,7 +8,7 @@ export default function Projects() {
       id="projects"
       className="py-16 bg-gray-100 dark:bg-gray-800 px-2.5"
     >
-      <div className="max-w-6xl mx-auto px-4">
+      <div className="mx-auto px-4">
         <h2 className="text-3xl font-bold mb-10 text-center">Projets</h2>
         <p className="text-xl mb-5 text-center">
           Voici quelques exemples de mes projets parmi ceux qui sont sur GitHub
@@ -22,12 +22,12 @@ export default function Projects() {
         >
           Voir mon GitHub complet
         </a>
-        <div className="grid gap-6 md:grid-cols-3">
+        <div className="flex justify-center gap-6 flex-wrap">
           {siteData.map((p, i) => (
             <motion.div
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 300 }}
-              className="bg-white dark:bg-gray-700 p-6 rounded-xl shadow hover:shadow-lg"
+              className="bg-white dark:bg-gray-700 p-6 rounded-xl shadow hover:shadow-lg w-[400px]"
               key={i}
             >
               <h3 className="text-xl font-semibold mb-2">{p.name}</h3>

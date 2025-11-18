@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function AboutMe() {
   return (
     <section id="about" className="py-16 bg-gray-100 dark:bg-gray-800 px-2.5">
@@ -12,8 +10,8 @@ export default function AboutMe() {
           améliorer mes compétences.
         </p>
         <p>
-          Mon objectif est de créer des expériences numériques de qualité, que
-          ce soit pour des startups, des projets personnels ou des entreprises.
+          Mon objectif est de créer des expériences web de qualité, que ce soit
+          pour des startups, des projets personnels ou des entreprises.
         </p>
       </div>
     </section>

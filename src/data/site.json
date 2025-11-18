@@ -33,5 +33,28 @@
     "tech": ["React.js", "SASS"],
     "github": "https://github.com/CorentinDWWM/Othello",
     "deploy": "https://othellogamecd-dwwm.netlify.app/"
+  },
+  {
+    "name": "Video Games Manager",
+    "desc": "Application FullStack réalisé dans la cadre de la validation de mon titre professionnel Concepteur Développeur d'applications",
+    "tech": [
+      "React.js",
+      "Tailwind",
+      "yup",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "dotenv",
+      "cors",
+      "mongoose",
+      "sendgrid",
+      "jsonwebtoken",
+      "cookie-parser",
+      "bcrypt",
+      "cloudinary",
+      "recharts"
+    ],
+    "github": "https://github.com/CorentinDWWM/VGM",
+    "deploy": "https://vgm-871e.onrender.com/"
   }
 ]

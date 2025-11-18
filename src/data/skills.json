@@ -46,5 +46,21 @@
   {
     "name": "GitHub",
     "logo": "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg"
+  },
+  {
+    "name": "Cloudinary",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg"
+  },
+  {
+    "name": "Supabase",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/supabase/supabase-original.svg"
+  },
+  {
+    "name": "NoSQL",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  },
+  {
+    "name": "React Native",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   }
 ]
